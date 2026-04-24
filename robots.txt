@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-installation-nashville-tn.netlify.app/sitemap.xml
